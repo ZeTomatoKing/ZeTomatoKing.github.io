@@ -1,5 +1,5 @@
  ```mermaid 
-flowchart TD
+flowchart TD;
       A[start]-->{is it working?}
 ``` 
 *A* Program Loads
