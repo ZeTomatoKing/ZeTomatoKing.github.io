@@ -6,4 +6,4 @@
 - Im a pretty big gamer, I enjoy games such as Rainbow Six Seige, Marvel Rivals, And Elden Ring
 ## Websites I Use
 - [Discord](https://discord.com) I use discord as a way to talk to friends and meet new people.
-- [YouTube][youtube.com] I use Youtube as a way to watch both educational content and for entertainment.
+- [YouTube](youtube.com) I use Youtube as a way to watch both educational content and for entertainment.
