@@ -1,6 +1,6 @@
  ```mermaid 
 flowchart TD;
-      A[start]-->B{is it working?}
+      A[You wake up in the middle of the night, are you thirsty.]
+       A-->B[Yes]
+      A-->C[No]
 ``` 
-*A* Program Loads
-*B* Check to see if its working
