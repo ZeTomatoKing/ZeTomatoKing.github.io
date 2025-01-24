@@ -1,4 +1,4 @@
 # ZeTomatoking.github.io
-Judah tourdot jetourdot@my.waketech.edu
-school repository
-homework goes here
+# About me
+## My Interests 
+- I love going out with my friends.
